@@ -68,8 +68,5 @@ The project successfully demonstrates the effectiveness of CNNs combined with tr
 
 ---
 
-## Author
-Kelechi Mbibi  
-Graduate Researcher | AI Enthusiast  
-[LinkedIn Profile](#) | [GitHub](#)
+
 
