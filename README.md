@@ -26,11 +26,11 @@ All images were resized to **224x224** pixels. Data augmentation techniques were
 ---
 
 ## Key Features
-✅ **Transfer Learning**: Leveraging pretrained ResNet18 weights
-✅ **Data Augmentation**: Rotation, flipping, color jittering, and more
-✅ **Full Fine-Tuning**: All ResNet layers were trainable
-✅ **Balanced Dataset**: Ensuring equal representation of all breeds
-✅ **Confusion Matrix**: Detailed analysis of misclassifications
+**Transfer Learning**: Leveraging pretrained ResNet18 weights
+**Data Augmentation**: Rotation, flipping, color jittering, and more
+**Full Fine-Tuning**: All ResNet layers were trainable
+**Balanced Dataset**: Ensuring equal representation of all breeds
+**Confusion Matrix**: Detailed analysis of misclassifications
 
 ---
 
